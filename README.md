@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="left">Hello, I'm Valentino 👋</h1>
 
-<!--
-**0xVZ/0xVZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xVZ&label=Profile%20views&color=0e75b6&style=flat" alt="0xVZ" /> </p>
 
-Here are some ideas to get you started:
+### I'm a 18 year old programmer and entrepreneur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Low-level C programmer on computers and microcontrollers.
+- Experience in automating tasks and generating reports with Python.
+- Automation of web tasks and data-scraping with Python and different modules.
+- Experience with creating, manipulating, and summarizing large amounts of data.
+- Lover of the stock market and predictions with AI.
+
+### ⚡️ Technical Skills
+- Experienced in C++, C, Java, Python, Arduino, AVR, and more. 
+- Web development experience only with basic HTML.
+- Knows practically everything about Bitcoin-based cryptocurrencies and a lot about cryptography.
+
+### 📈 Public Stats
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xVZ&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
+</a>
+<br/><br/>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xVZ&theme=dark" alt="github streak stats" />
+</a>
+
+### Have a question? Want to collaborate? Looking for a developer?
+#### Send me an email: <a href="mailto:griskiel@protonmail.com">Business Email</a>
