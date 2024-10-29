@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xVZ&label=Profile%20views&color=0e75b6&style=flat" alt="0xVZ" /> </p>
 
-### I'm a 19 year old programmer and entrepreneur
+### I'm a 20 year old programmer and entrepreneur
 
 - Low-level C programmer on computers and microcontrollers.
 - Experience in automating tasks and generating reports with Python.
@@ -10,9 +10,8 @@
 - Experience with creating, manipulating, and summarizing large amounts of data.
 
 ### ⚡️ Technical Skills
-- Experienced in C++, C, C#, Java, Python, Arduino, AVR, and COBOL. 
-- Web development experience only with basic HTML.
-- Knows practically everything about Bitcoin-based cryptocurrencies and a lot about cryptography.
+- Experienced in C++, C, Java, Python, Arduino, AVR, and Assembly. 
+- Web development experience only with basic HTML / PHP.
 
 ### 📈 Public Stats
 
